@@ -2,7 +2,7 @@
 
 I am an ML engineer / former polymer physicist. 
 
-# Goldilocks (STFC)
+# Goldilocks
 
 Developing [models](https://github.com/stfc/goldilocks_kpoints) and a [web-app](https://github.com/stfc/goldilocks) for the prediction of the k-points density for SCF single point energy calculations with Quantum Espresso.
 
