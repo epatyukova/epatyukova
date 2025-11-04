@@ -2,11 +2,11 @@
 
 I am an ML engineer / former polymer physicist. 
 
-# Project 1 
+# Goldilocks (STFC)
 
 Developing [models](https://github.com/stfc/goldilocks_kpoints) and a [web-app](https://github.com/stfc/goldilocks) for the prediction of the k-points density for SCF single point energy calculations with Quantum Espresso.
 
-# Project 2
+# Disorder in crystaline materials
 [Statistical analysis](https://github.com/epatyukova/Disorder-MC) of experimental data on structural disorder in inorganic crystals. Building models taking in compound composition and predicting whether the compound is [ordered/disordered](https://github.com/epatyukova/General-disorder-prediction), [the type of disorder](https://github.com/epatyukova/Disorder-type-prediction), and predicting for each [element in the compound order/disorder state](https://github.com/epatyukova/Element-disorder-prediction). 
 
 # Hackathons LLMs for applications in material science & chemistry
