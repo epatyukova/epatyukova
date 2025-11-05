@@ -11,6 +11,6 @@ Developing [models](https://github.com/stfc/goldilocks_kpoints) and a [web-app](
 
 # Hackathons LLMs for applications in material science & chemistry
 
-2024, [Encoding unstructured information](https://github.com/fedeotto/lpoolmat_llms)
+2024, [Encoding unstructured chemical information](https://github.com/fedeotto/lpoolmat_llms)
 
 2025, [CLUE: Crystal Learning for Understandable Explanations](https://github.com/epatyukova/llm2025-hackathon-CLUE)
